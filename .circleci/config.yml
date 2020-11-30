@@ -9,4 +9,4 @@
     
      steps:
        - checkout
-       - run: dotnet build win10-x86
+       - run: dotnet build
