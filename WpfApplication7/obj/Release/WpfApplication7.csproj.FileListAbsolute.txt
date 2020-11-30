@@ -1,0 +1,2 @@
+C:\Users\Logiciel 15\Documents\GitHub\WpfApp\WpfApplication7\obj\Release\App.g.cs
+C:\Users\Logiciel 15\Documents\GitHub\WpfApp\WpfApplication7\obj\Release\WpfApplication7_MarkupCompile.cache

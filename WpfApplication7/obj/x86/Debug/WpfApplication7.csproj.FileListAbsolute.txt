@@ -1,0 +1,3 @@
+C:\Users\Logiciel 15\Documents\GitHub\WpfApp\WpfApplication7\obj\x86\Debug\WpfApplication7.csprojAssemblyReference.cache
+C:\Users\Logiciel 15\Documents\GitHub\WpfApp\WpfApplication7\obj\x86\Debug\App.g.cs
+C:\Users\Logiciel 15\Documents\GitHub\WpfApp\WpfApplication7\obj\x86\Debug\WpfApplication7_MarkupCompile.cache
